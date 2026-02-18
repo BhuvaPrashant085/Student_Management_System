@@ -1,0 +1,11 @@
+D:\bhuva\dotNET\DOTNET\obj\Debug\DOTNET.csproj.AssemblyReference.cache
+D:\bhuva\dotNET\DOTNET\obj\Debug\StudentManagementSystem.Form1.resources
+D:\bhuva\dotNET\DOTNET\obj\Debug\DOTNET.Properties.Resources.resources
+D:\bhuva\dotNET\DOTNET\obj\Debug\DOTNET.csproj.GenerateResource.cache
+D:\bhuva\dotNET\DOTNET\obj\Debug\DOTNET.csproj.CoreCompileInputs.cache
+D:\bhuva\dotNET\DOTNET\obj\Debug\DOTNET.SignupForm.resources
+D:\bhuva\dotNET\DOTNET\bin\Debug\DOTNET.exe.config
+D:\bhuva\dotNET\DOTNET\bin\Debug\DOTNET.exe
+D:\bhuva\dotNET\DOTNET\bin\Debug\DOTNET.pdb
+D:\bhuva\dotNET\DOTNET\obj\Debug\DOTNET.exe
+D:\bhuva\dotNET\DOTNET\obj\Debug\DOTNET.pdb
