@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bhuva\\02032026\\DOTNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|d:\\bhuva\\02032026\\dotnet\\internshipdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:internshipdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\projectsassignmentsdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:projectsassignmentsdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\uploadcia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:uploadcia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\teacherprojectsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:teacherprojectsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\projectsassignmentsdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:projectsassignmentsdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\internshipdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:internshipdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\internshipdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:internshipdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|d:\\bhuva\\02032026\\dotnet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\projectsassignmentsdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:projectsassignmentsdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\studentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:studentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\teacher_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:teacher_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\teacherprojectsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:teacherprojectsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\uplaodcia2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:uplaodcia2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\student_leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:student_leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\mycia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:mycia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\bhuva\\02032026\\DOTNET\\TeacherInternshipManager.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TeacherInternshipManager.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\bhuva\\02032026\\DOTNET\\TeacherInternshipManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TeacherInternshipManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\studentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:studentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\student_leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:student_leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\teacher_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:teacher_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|D:\\bhuva\\02032026\\DOTNET\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BE820A0-A127-4075-9220-FFA15EF7AE2F}|DOTNET.csproj|solutionrelative:signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectsAssignmentsDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\ProjectsAssignmentsDashboard.cs",
+              "RelativeDocumentMoniker": "ProjectsAssignmentsDashboard.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\ProjectsAssignmentsDashboard.cs [Design]",
+              "RelativeToolTip": "ProjectsAssignmentsDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:36:04.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherProjectsManager.cs [Design]",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\TeacherProjectsManager.cs",
+              "RelativeDocumentMoniker": "TeacherProjectsManager.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\TeacherProjectsManager.cs [Design]",
+              "RelativeToolTip": "TeacherProjectsManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:25:35.805Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadCIA.cs",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\UploadCIA.cs",
+              "RelativeDocumentMoniker": "UploadCIA.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\UploadCIA.cs",
+              "RelativeToolTip": "UploadCIA.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:32:32.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InternshipDashboard.Designer.cs",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\InternshipDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "InternshipDashboard.Designer.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\InternshipDashboard.Designer.cs",
+              "RelativeToolTip": "InternshipDashboard.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAALEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T05:28:41.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectsAssignmentsDashboard.Designer.cs",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\ProjectsAssignmentsDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "ProjectsAssignmentsDashboard.Designer.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\ProjectsAssignmentsDashboard.Designer.cs",
+              "RelativeToolTip": "ProjectsAssignmentsDashboard.Designer.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAqwOsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:36:53.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:44:09.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InternshipDashboard.cs",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\InternshipDashboard.cs",
+              "RelativeDocumentMoniker": "InternshipDashboard.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\InternshipDashboard.cs",
+              "RelativeToolTip": "InternshipDashboard.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowGgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:34:04.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeacherProjectsManager.cs",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\TeacherProjectsManager.cs",
+              "RelativeDocumentMoniker": "TeacherProjectsManager.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\TeacherProjectsManager.cs",
+              "RelativeToolTip": "TeacherProjectsManager.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:25:44.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignupForm.cs",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\SignupForm.cs",
+              "RelativeDocumentMoniker": "SignupForm.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\SignupForm.cs",
+              "RelativeToolTip": "SignupForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:20:36.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Teacher_Dashboard.cs",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\Teacher_Dashboard.cs",
+              "RelativeDocumentMoniker": "Teacher_Dashboard.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\Teacher_Dashboard.cs",
+              "RelativeToolTip": "Teacher_Dashboard.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:32:03.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:09:19.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InternshipDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\InternshipDashboard.cs",
+              "RelativeDocumentMoniker": "InternshipDashboard.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\InternshipDashboard.cs [Design]",
+              "RelativeToolTip": "InternshipDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:33:54.427Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentResult.cs",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\StudentResult.cs",
+              "RelativeDocumentMoniker": "StudentResult.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\StudentResult.cs",
+              "RelativeToolTip": "StudentResult.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:31:51.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectsAssignmentsDashboard.cs",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\ProjectsAssignmentsDashboard.cs",
+              "RelativeDocumentMoniker": "ProjectsAssignmentsDashboard.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\ProjectsAssignmentsDashboard.cs",
+              "RelativeToolTip": "ProjectsAssignmentsDashboard.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:36:41.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UplaodCIA2.cs",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\UplaodCIA2.cs",
+              "RelativeDocumentMoniker": "UplaodCIA2.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\UplaodCIA2.cs",
+              "RelativeToolTip": "UplaodCIA2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:32:24.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Student_Leaderboard.cs",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\Student_Leaderboard.cs",
+              "RelativeDocumentMoniker": "Student_Leaderboard.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\Student_Leaderboard.cs",
+              "RelativeToolTip": "Student_Leaderboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:31:44.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyCIA.cs",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\MyCIA.cs",
+              "RelativeDocumentMoniker": "MyCIA.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\MyCIA.cs",
+              "RelativeToolTip": "MyCIA.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:31:26.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeacherInternshipManager.Designer.cs",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\TeacherInternshipManager.Designer.cs",
+              "RelativeDocumentMoniker": "TeacherInternshipManager.Designer.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\TeacherInternshipManager.Designer.cs",
+              "RelativeToolTip": "TeacherInternshipManager.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:19:19.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TeacherInternshipManager.cs",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\TeacherInternshipManager.cs",
+              "RelativeDocumentMoniker": "TeacherInternshipManager.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\TeacherInternshipManager.cs",
+              "RelativeToolTip": "TeacherInternshipManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:19:03.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:09:23.498Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:09:12.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Teacher_Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\Teacher_Dashboard.cs",
+              "RelativeDocumentMoniker": "Teacher_Dashboard.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\Teacher_Dashboard.cs [Design]",
+              "RelativeToolTip": "Teacher_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:08:54.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentResult.cs [Design]",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\StudentResult.cs",
+              "RelativeDocumentMoniker": "StudentResult.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\StudentResult.cs [Design]",
+              "RelativeToolTip": "StudentResult.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:08:49.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Student_Leaderboard.cs [Design]",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\Student_Leaderboard.cs",
+              "RelativeDocumentMoniker": "Student_Leaderboard.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\Student_Leaderboard.cs [Design]",
+              "RelativeToolTip": "Student_Leaderboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:08:45.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SignupForm.cs [Design]",
+              "DocumentMoniker": "D:\\bhuva\\02032026\\DOTNET\\SignupForm.cs",
+              "RelativeDocumentMoniker": "SignupForm.cs",
+              "ToolTip": "D:\\bhuva\\02032026\\DOTNET\\SignupForm.cs [Design]",
+              "RelativeToolTip": "SignupForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T21:08:42.058Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

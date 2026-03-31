@@ -1,36 +1,8 @@
-﻿using System;
-using System.Windows.Forms;
-
-namespace DOTNET
+﻿namespace DOTNET
 {
-    public partial class DashboardControl : UserControl
-    {
-        private string username;
-
-        public DashboardControl(string user)
-        {
-            InitializeComponent();
-            username = user;
-        }
-
-        private void DashboardControl_Load(object sender, EventArgs e)
-        {
-            lblWelcome.Text = "Welcome " + username;
-        }
-    }
-}
-"""
-
-dashboard_designer = """
-namespace DOTNET
-{
-    partial class DashboardControl
+    partial class SignupForm
     {
         private System.ComponentModel.IContainer components = null;
-        private System.Windows.Forms.Label lblWelcome;
-        private System.Windows.Forms.Label lblCount1;
-        private System.Windows.Forms.Label lblCount2;
-        private System.Windows.Forms.Label lblCount3;
 
         protected override void Dispose(bool disposing)
         {
@@ -41,58 +13,132 @@ namespace DOTNET
             base.Dispose(disposing);
         }
 
+        #region Windows Form Designer generated code
+
         private void InitializeComponent()
         {
-            this.lblWelcome = new System.Windows.Forms.Label();
-            this.lblCount1 = new System.Windows.Forms.Label();
-            this.lblCount2 = new System.Windows.Forms.Label();
-            this.lblCount3 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.btnSignup = new System.Windows.Forms.Button();
+            this.txtUsername = new System.Windows.Forms.TextBox();
+            this.txtPassword = new System.Windows.Forms.TextBox();
+            this.txtConfirm = new System.Windows.Forms.TextBox();
+            this.txtEnrollmentno = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
 
-            // lblWelcome
-            this.lblWelcome.AutoSize = true;
-            this.lblWelcome.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.lblWelcome.Location = new System.Drawing.Point(30, 20);
-            this.lblWelcome.Name = "lblWelcome";
-            this.lblWelcome.Size = new System.Drawing.Size(120, 26);
-            this.lblWelcome.Text = "Welcome";
-
-            // lblCount1
-            this.lblCount1.AutoSize = true;
-            this.lblCount1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.lblCount1.Location = new System.Drawing.Point(30, 80);
-            this.lblCount1.Name = "lblCount1";
-            this.lblCount1.Size = new System.Drawing.Size(100, 20);
-            this.lblCount1.Text = "Students: 0";
-
-            // lblCount2
-            this.lblCount2.AutoSize = true;
-            this.lblCount2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.lblCount2.Location = new System.Drawing.Point(30, 120);
-            this.lblCount2.Name = "lblCount2";
-            this.lblCount2.Size = new System.Drawing.Size(90, 20);
-            this.lblCount2.Text = "Courses: 0";
-
-            // lblCount3
-            this.lblCount3.AutoSize = true;
-            this.lblCount3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.lblCount3.Location = new System.Drawing.Point(30, 160);
-            this.lblCount3.Name = "lblCount3";
-            this.lblCount3.Size = new System.Drawing.Size(120, 20);
-            this.lblCount3.Text = "Enrollments: 0";
-
-            // DashboardControl
+            // ================= FORM SETTINGS =================
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.lblWelcome);
-            this.Controls.Add(this.lblCount1);
-            this.Controls.Add(this.lblCount2);
-            this.Controls.Add(this.lblCount3);
-            this.Name = "DashboardControl";
-            this.Size = new System.Drawing.Size(500, 300);
-            this.Load += new System.EventHandler(this.DashboardControl_Load);
+            this.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.ClientSize = new System.Drawing.Size(900, 550);
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.MinimumSize = new System.Drawing.Size(700, 500);
+            this.Text = "Student Signup";
+            this.Load += new System.EventHandler(this.SignupForm_Load);
+
+            // ================= TITLE =================
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Bold);
+            this.label1.ForeColor = System.Drawing.Color.MidnightBlue;
+            this.label1.Location = new System.Drawing.Point(300, 60);
+            this.label1.Text = "Create Account";
+            this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
+
+            // ================= USERNAME =================
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 12F);
+            this.label2.Location = new System.Drawing.Point(250, 170);
+            this.label2.Text = "Username:";
+            this.label2.Anchor = System.Windows.Forms.AnchorStyles.None;
+
+            this.txtUsername.Location = new System.Drawing.Point(420, 168);
+            this.txtUsername.Size = new System.Drawing.Size(250, 30);
+            this.txtUsername.Font = new System.Drawing.Font("Segoe UI", 12F);
+            this.txtUsername.Anchor = System.Windows.Forms.AnchorStyles.None;
+
+            // ================= ENROLLMENT =================
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Segoe UI", 12F);
+            this.label5.Location = new System.Drawing.Point(250, 220);
+            this.label5.Text = "Enrollment No:";
+            this.label5.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.label5.Click += new System.EventHandler(this.label5_Click);
+
+            this.txtEnrollmentno.Location = new System.Drawing.Point(420, 218);
+            this.txtEnrollmentno.Size = new System.Drawing.Size(250, 30);
+            this.txtEnrollmentno.Font = new System.Drawing.Font("Segoe UI", 12F);
+            this.txtEnrollmentno.Anchor = System.Windows.Forms.AnchorStyles.None;
+
+            // ================= PASSWORD =================
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Segoe UI", 12F);
+            this.label3.Location = new System.Drawing.Point(250, 270);
+            this.label3.Text = "Password:";
+            this.label3.Anchor = System.Windows.Forms.AnchorStyles.None;
+
+            this.txtPassword.Location = new System.Drawing.Point(420, 268);
+            this.txtPassword.Size = new System.Drawing.Size(250, 30);
+            this.txtPassword.Font = new System.Drawing.Font("Segoe UI", 12F);
+            this.txtPassword.UseSystemPasswordChar = true;
+            this.txtPassword.Anchor = System.Windows.Forms.AnchorStyles.None;
+
+            // ================= CONFIRM PASSWORD =================
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Segoe UI", 12F);
+            this.label4.Location = new System.Drawing.Point(250, 320);
+            this.label4.Text = "Confirm Password:";
+            this.label4.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.label4.Click += new System.EventHandler(this.label4_Click);
+
+            this.txtConfirm.Location = new System.Drawing.Point(420, 318);
+            this.txtConfirm.Size = new System.Drawing.Size(250, 30);
+            this.txtConfirm.Font = new System.Drawing.Font("Segoe UI", 12F);
+            this.txtConfirm.UseSystemPasswordChar = true;
+            this.txtConfirm.Anchor = System.Windows.Forms.AnchorStyles.None;
+
+            // ================= SIGNUP BUTTON =================
+            this.btnSignup.Location = new System.Drawing.Point(400, 390);
+            this.btnSignup.Size = new System.Drawing.Size(160, 45);
+            this.btnSignup.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold);
+            this.btnSignup.BackColor = System.Drawing.Color.SeaGreen;
+            this.btnSignup.ForeColor = System.Drawing.Color.White;
+            this.btnSignup.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSignup.FlatAppearance.BorderSize = 0;
+            this.btnSignup.Text = "Sign Up";
+            this.btnSignup.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.btnSignup.UseVisualStyleBackColor = false;
+            this.btnSignup.Click += new System.EventHandler(this.btnSignup_Click_1);
+
+            // ================= ADD CONTROLS =================
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.txtUsername);
+            this.Controls.Add(this.txtEnrollmentno);
+            this.Controls.Add(this.txtPassword);
+            this.Controls.Add(this.txtConfirm);
+            this.Controls.Add(this.btnSignup);
+
             this.ResumeLayout(false);
             this.PerformLayout();
         }
+
+        #endregion
+
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Button btnSignup;
+        private System.Windows.Forms.TextBox txtUsername;
+        private System.Windows.Forms.TextBox txtPassword;
+        private System.Windows.Forms.TextBox txtConfirm;
+        private System.Windows.Forms.TextBox txtEnrollmentno;
     }
 }

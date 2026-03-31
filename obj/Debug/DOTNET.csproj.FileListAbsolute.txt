@@ -9,3 +9,98 @@ D:\bhuva\dotNET\DOTNET\bin\Debug\DOTNET.exe
 D:\bhuva\dotNET\DOTNET\bin\Debug\DOTNET.pdb
 D:\bhuva\dotNET\DOTNET\obj\Debug\DOTNET.exe
 D:\bhuva\dotNET\DOTNET\obj\Debug\DOTNET.pdb
+D:\bhuva\dotNET\DOTNET\obj\Debug\DOTNET.MainForm.resources
+D:\BHUVA PRASHANT\24022026\DOTNET\bin\Debug\DOTNET.exe.config
+D:\BHUVA PRASHANT\24022026\DOTNET\obj\Debug\DOTNET.exe
+D:\BHUVA PRASHANT\24022026\DOTNET\obj\Debug\DOTNET.pdb
+D:\BHUVA PRASHANT\24022026\DOTNET\bin\Debug\DOTNET.exe
+D:\BHUVA PRASHANT\24022026\DOTNET\bin\Debug\DOTNET.pdb
+D:\BHUVA PRASHANT\24022026\DOTNET\obj\Debug\DOTNET.csproj.AssemblyReference.cache
+D:\BHUVA PRASHANT\24022026\DOTNET\obj\Debug\StudentManagementSystem.Form1.resources
+D:\BHUVA PRASHANT\24022026\DOTNET\obj\Debug\DOTNET.MainForm.resources
+D:\BHUVA PRASHANT\24022026\DOTNET\obj\Debug\DOTNET.Properties.Resources.resources
+D:\BHUVA PRASHANT\24022026\DOTNET\obj\Debug\DOTNET.SignupForm.resources
+D:\BHUVA PRASHANT\24022026\DOTNET\obj\Debug\DOTNET.csproj.GenerateResource.cache
+D:\BHUVA PRASHANT\24022026\DOTNET\obj\Debug\DOTNET.csproj.CoreCompileInputs.cache
+D:\BHUVA PRASHANT\24022026\DOTNET\obj\Debug\DOTNET.Student_Leaderboard.resources
+D:\BHUVA PRASHANT\24022026\DOTNET\obj\Debug\DOTNET.Teacher_Dashboard.resources
+D:\BHUVA PRASHANT\25022026(1)\25022026\DOTNET\bin\Debug\DOTNET.exe.config
+D:\BHUVA PRASHANT\25022026(1)\25022026\DOTNET\bin\Debug\DOTNET.exe
+D:\BHUVA PRASHANT\25022026(1)\25022026\DOTNET\bin\Debug\DOTNET.pdb
+D:\BHUVA PRASHANT\25022026(1)\25022026\DOTNET\obj\Debug\DOTNET.csproj.AssemblyReference.cache
+D:\BHUVA PRASHANT\25022026(1)\25022026\DOTNET\obj\Debug\StudentManagementSystem.Form1.resources
+D:\BHUVA PRASHANT\25022026(1)\25022026\DOTNET\obj\Debug\DOTNET.MainForm.resources
+D:\BHUVA PRASHANT\25022026(1)\25022026\DOTNET\obj\Debug\DOTNET.Properties.Resources.resources
+D:\BHUVA PRASHANT\25022026(1)\25022026\DOTNET\obj\Debug\DOTNET.SignupForm.resources
+D:\BHUVA PRASHANT\25022026(1)\25022026\DOTNET\obj\Debug\DOTNET.Student_Leaderboard.resources
+D:\BHUVA PRASHANT\25022026(1)\25022026\DOTNET\obj\Debug\DOTNET.Teacher_Dashboard.resources
+D:\BHUVA PRASHANT\25022026(1)\25022026\DOTNET\obj\Debug\DOTNET.csproj.GenerateResource.cache
+D:\BHUVA PRASHANT\25022026(1)\25022026\DOTNET\obj\Debug\DOTNET.csproj.CoreCompileInputs.cache
+D:\BHUVA PRASHANT\25022026(1)\25022026\DOTNET\obj\Debug\DOTNET.exe
+D:\BHUVA PRASHANT\25022026(1)\25022026\DOTNET\obj\Debug\DOTNET.pdb
+D:\BHUVA PRASHANT\25022026(1)\25022026\DOTNET\obj\Debug\DOTNET.UploadCIA.resources
+D:\BHUVA PRASHANT\25022026(1)\25022026(2)\25022026(2)\DOTNET\bin\Debug\DOTNET.exe.config
+D:\BHUVA PRASHANT\25022026(1)\25022026(2)\25022026(2)\DOTNET\bin\Debug\DOTNET.exe
+D:\BHUVA PRASHANT\25022026(1)\25022026(2)\25022026(2)\DOTNET\bin\Debug\DOTNET.pdb
+D:\BHUVA PRASHANT\25022026(1)\25022026(2)\25022026(2)\DOTNET\obj\Debug\DOTNET.csproj.AssemblyReference.cache
+D:\BHUVA PRASHANT\25022026(1)\25022026(2)\25022026(2)\DOTNET\obj\Debug\StudentManagementSystem.Form1.resources
+D:\BHUVA PRASHANT\25022026(1)\25022026(2)\25022026(2)\DOTNET\obj\Debug\DOTNET.MainForm.resources
+D:\BHUVA PRASHANT\25022026(1)\25022026(2)\25022026(2)\DOTNET\obj\Debug\DOTNET.Properties.Resources.resources
+D:\BHUVA PRASHANT\25022026(1)\25022026(2)\25022026(2)\DOTNET\obj\Debug\DOTNET.SignupForm.resources
+D:\BHUVA PRASHANT\25022026(1)\25022026(2)\25022026(2)\DOTNET\obj\Debug\DOTNET.Student_Leaderboard.resources
+D:\BHUVA PRASHANT\25022026(1)\25022026(2)\25022026(2)\DOTNET\obj\Debug\DOTNET.Teacher_Dashboard.resources
+D:\BHUVA PRASHANT\25022026(1)\25022026(2)\25022026(2)\DOTNET\obj\Debug\DOTNET.UploadCIA.resources
+D:\BHUVA PRASHANT\25022026(1)\25022026(2)\25022026(2)\DOTNET\obj\Debug\DOTNET.csproj.GenerateResource.cache
+D:\BHUVA PRASHANT\25022026(1)\25022026(2)\25022026(2)\DOTNET\obj\Debug\DOTNET.csproj.CoreCompileInputs.cache
+D:\BHUVA PRASHANT\25022026(1)\25022026(2)\25022026(2)\DOTNET\obj\Debug\DOTNET.exe
+D:\BHUVA PRASHANT\25022026(1)\25022026(2)\25022026(2)\DOTNET\obj\Debug\DOTNET.pdb
+D:\BHUVA PRASHANT\02032026\25022026(2)\DOTNET\bin\Debug\DOTNET.exe.config
+D:\BHUVA PRASHANT\02032026\25022026(2)\DOTNET\bin\Debug\DOTNET.exe
+D:\BHUVA PRASHANT\02032026\25022026(2)\DOTNET\bin\Debug\DOTNET.pdb
+D:\BHUVA PRASHANT\02032026\25022026(2)\DOTNET\obj\Debug\DOTNET.csproj.AssemblyReference.cache
+D:\BHUVA PRASHANT\02032026\25022026(2)\DOTNET\obj\Debug\StudentManagementSystem.Form1.resources
+D:\BHUVA PRASHANT\02032026\25022026(2)\DOTNET\obj\Debug\DOTNET.MainForm.resources
+D:\BHUVA PRASHANT\02032026\25022026(2)\DOTNET\obj\Debug\DOTNET.Properties.Resources.resources
+D:\BHUVA PRASHANT\02032026\25022026(2)\DOTNET\obj\Debug\DOTNET.SignupForm.resources
+D:\BHUVA PRASHANT\02032026\25022026(2)\DOTNET\obj\Debug\DOTNET.Student_Leaderboard.resources
+D:\BHUVA PRASHANT\02032026\25022026(2)\DOTNET\obj\Debug\DOTNET.Teacher_Dashboard.resources
+D:\BHUVA PRASHANT\02032026\25022026(2)\DOTNET\obj\Debug\DOTNET.UploadCIA.resources
+D:\BHUVA PRASHANT\02032026\25022026(2)\DOTNET\obj\Debug\DOTNET.csproj.GenerateResource.cache
+D:\BHUVA PRASHANT\02032026\25022026(2)\DOTNET\obj\Debug\DOTNET.csproj.CoreCompileInputs.cache
+D:\BHUVA PRASHANT\02032026\25022026(2)\DOTNET\obj\Debug\DOTNET.exe
+D:\BHUVA PRASHANT\02032026\25022026(2)\DOTNET\obj\Debug\DOTNET.pdb
+D:\BHUVA PRASHANT\02032026\25022026(2)\DOTNET\obj\Debug\DOTNET.StudentResult.resources
+C:\Users\parth\Downloads\02032026\02032026\02032026\DOTNET\bin\Debug\DOTNET.exe.config
+C:\Users\parth\Downloads\02032026\02032026\02032026\DOTNET\bin\Debug\DOTNET.exe
+C:\Users\parth\Downloads\02032026\02032026\02032026\DOTNET\bin\Debug\DOTNET.pdb
+C:\Users\parth\Downloads\02032026\02032026\02032026\DOTNET\obj\Debug\DOTNET.csproj.AssemblyReference.cache
+C:\Users\parth\Downloads\02032026\02032026\02032026\DOTNET\obj\Debug\StudentManagementSystem.Form1.resources
+C:\Users\parth\Downloads\02032026\02032026\02032026\DOTNET\obj\Debug\DOTNET.MainForm.resources
+C:\Users\parth\Downloads\02032026\02032026\02032026\DOTNET\obj\Debug\DOTNET.Properties.Resources.resources
+C:\Users\parth\Downloads\02032026\02032026\02032026\DOTNET\obj\Debug\DOTNET.SignupForm.resources
+C:\Users\parth\Downloads\02032026\02032026\02032026\DOTNET\obj\Debug\DOTNET.StudentResult.resources
+C:\Users\parth\Downloads\02032026\02032026\02032026\DOTNET\obj\Debug\DOTNET.Student_Leaderboard.resources
+C:\Users\parth\Downloads\02032026\02032026\02032026\DOTNET\obj\Debug\DOTNET.Teacher_Dashboard.resources
+C:\Users\parth\Downloads\02032026\02032026\02032026\DOTNET\obj\Debug\DOTNET.UploadCIA.resources
+C:\Users\parth\Downloads\02032026\02032026\02032026\DOTNET\obj\Debug\DOTNET.csproj.GenerateResource.cache
+C:\Users\parth\Downloads\02032026\02032026\02032026\DOTNET\obj\Debug\DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\parth\Downloads\02032026\02032026\02032026\DOTNET\obj\Debug\DOTNET.exe
+C:\Users\parth\Downloads\02032026\02032026\02032026\DOTNET\obj\Debug\DOTNET.pdb
+D:\bhuva\02032026\DOTNET\obj\Debug\DOTNET.csproj.AssemblyReference.cache
+D:\bhuva\02032026\DOTNET\obj\Debug\StudentManagementSystem.Form1.resources
+D:\bhuva\02032026\DOTNET\obj\Debug\DOTNET.MainForm.resources
+D:\bhuva\02032026\DOTNET\obj\Debug\DOTNET.Properties.Resources.resources
+D:\bhuva\02032026\DOTNET\obj\Debug\DOTNET.SignupForm.resources
+D:\bhuva\02032026\DOTNET\obj\Debug\DOTNET.StudentResult.resources
+D:\bhuva\02032026\DOTNET\obj\Debug\DOTNET.Student_Leaderboard.resources
+D:\bhuva\02032026\DOTNET\obj\Debug\DOTNET.Teacher_Dashboard.resources
+D:\bhuva\02032026\DOTNET\obj\Debug\DOTNET.UploadCIA.resources
+D:\bhuva\02032026\DOTNET\obj\Debug\DOTNET.csproj.GenerateResource.cache
+D:\bhuva\02032026\DOTNET\obj\Debug\DOTNET.csproj.CoreCompileInputs.cache
+D:\bhuva\02032026\DOTNET\obj\Debug\DOTNET.exe
+D:\bhuva\02032026\DOTNET\obj\Debug\DOTNET.pdb
+D:\bhuva\02032026\DOTNET\obj\Debug\DOTNET.InternshipDashboard.resources
+D:\bhuva\02032026\DOTNET\obj\Debug\DOTNET.ProjectsAssignmentsDashboard.resources
+D:\bhuva\02032026\DOTNET\bin\Debug\DOTNET.exe.config
+D:\bhuva\02032026\DOTNET\bin\Debug\DOTNET.exe
+D:\bhuva\02032026\DOTNET\bin\Debug\DOTNET.pdb

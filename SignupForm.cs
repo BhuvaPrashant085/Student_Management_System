@@ -6,18 +6,34 @@ namespace DOTNET
 {
     public partial class SignupForm : Form
     {
+        string connectionString =
+            @"Data Source=.\SQLEXPRESS02;Initial Catalog=SMS;Integrated Security=True;Encrypt=False";
+
         public SignupForm()
         {
             InitializeComponent();
         }
-
-        private void btnRegister_Click(object sender, EventArgs e)
+        private void SignupForm_Load(object sender, EventArgs e)
         {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSignup_Click_1(object sender, EventArgs e)
+        {
+        
+
+            
             string username = txtUsername.Text.Trim();
+            string enrollment = txtEnrollmentno.Text.Trim();
             string password = txtPassword.Text.Trim();
             string confirm = txtConfirm.Text.Trim();
 
-            if (username == "" || password == "" || confirm == "")
+            if (username == "" || enrollment == "" || password == "")
             {
                 MessageBox.Show("Please fill all fields");
                 return;
@@ -29,22 +45,37 @@ namespace DOTNET
                 return;
             }
 
-            SqlConnection con = new SqlConnection(
-                @"Data Source=.;Initial Catalog=StudentDB;Integrated Security=True;TrustServerCertificate=True");
+            int newStudentId = 0;
 
-            con.Open();
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                string query = @"
+        INSERT INTO Students (EnrollmentNo, Name, Password)
+        VALUES (@enroll, @name, @pass);
+        SELECT SCOPE_IDENTITY();";
 
-            SqlCommand cmd = new SqlCommand(
-                "insert into logintab values(@u,@p)", con);
+                SqlCommand cmd = new SqlCommand(query, con);
+                cmd.Parameters.AddWithValue("@enroll", enrollment);
+                cmd.Parameters.AddWithValue("@name", username);
+                cmd.Parameters.AddWithValue("@pass", password);
 
-            cmd.Parameters.AddWithValue("@u", username);
-            cmd.Parameters.AddWithValue("@p", password);
+                con.Open();
 
-            cmd.ExecuteNonQuery();
-            con.Close();
+                newStudentId = Convert.ToInt32(cmd.ExecuteScalar());
+            }
 
-            MessageBox.Show("Account created successfully!");
-            this.Close();
+            MessageBox.Show("Signup Successful!");
+
+            // Open Dashboard with studentId
+            MainForm dash = new MainForm(newStudentId);
+            dash.Show();
+            this.Hide();
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
+
